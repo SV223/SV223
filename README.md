@@ -1,5 +1,5 @@
 # Hello, I'm Seth
-<a href="www.linkedin.com/in/seth-velasquez-844446152"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[www.linkedin.com/in/seth-velasquez-844446152]"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an IT professional who loves learning and solving complex problems.
 ## Objective
@@ -10,7 +10,8 @@ My journey in my studies and job has led me to develop a passion for cybersecuri
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a hrref="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a hrref="[https://github.com/SV223/Incident-Monitoring-Lab]">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a hrref="">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a hrref="https://google.com">Detection Lab</a>|
 |Threat Analysis and problem solving            |  TryHackMe Conti
 
