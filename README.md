@@ -13,7 +13,7 @@ My journey in my studies and job has led me to develop a passion for cybersecuri
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/SV223/Incident-Monitoring-Lab">Detection Lab</a>
-|Threat Analysis and problem solving            |  TryHackMe Conti
+|Threat Analysis and problem solving            |  <a href="https://github.com/SV223/TryHackMe-Conti">TryHackMe Conti Ransomware</a>
 
 ## Certifications
 <div>
